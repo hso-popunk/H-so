@@ -1,0 +1,131 @@
+
+  /* ........
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;.....*/
+
+
+  /* .......STILI GENERALI.....*/
+h1,h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-family: 'Poppins', sans-serif; 
+}
+
+
+ /* .......NAVBAR.....*/
+
+.navbar{
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+
+}
+.nav-link{
+    color: #f2f2f2;
+}
+
+.nav-link:hover{
+    color: #fc02b9;
+    text-decoration: none;
+}
+
+
+
+
+.logo{
+    height: 75px;
+}
+
+
+
+.navbar-toggler{
+background-color: rgb(255, 255, 255);
+
+}
+
+
+ /* .......CAROSELLO.....*/
+
+
+.carousel-item img{
+    max-height: 100vh;
+}
+
+
+.carousel-inner{
+    width: auto;
+}
+
+
+/* .......ABOUT.....*/
+
+
+.about img{
+width: 80%;
+border-radius: 50%;
+}
+
+
+
+
+/* .....FOOTER....*/
+
+
+
+.social {
+    background-color:black;
+    text-align: center;
+    margin: 7px; color: #fc02b9 !important;
+    padding: 50px; color: #fc02b9 !important;
+}
+
+.contatti {
+    margin-top: 15px;
+    color: #f2f2f2;
+}
+
+
+
+/*....CARD....*/
+
+
+.card-img-top {
+   margin: 10px; 
+   margin: #fc02b9;
+   background-color: #fc02b9;
+   max-height: 100%;
+   border-bottom-right-radius: var(--bs-card-inner-border-radius);
+}
+
+.card {
+    background-color: #fc02b9;
+}
+
+.card-body{
+    margin: 3px;
+    margin: #fc02b9;
+    background-color: black;
+}
+
+.logo-footer{
+    max-width: 120%;
+}
+
+.card-text {
+    font-weight: bold;
+    color: #f2f2f2;
+}
+
+
+
+
+.navtitle{
+    color: #f2f2f2;
+    margin-right: 10px;
+
+}
+
+.img-doc{
+    width: 20%;
+}
